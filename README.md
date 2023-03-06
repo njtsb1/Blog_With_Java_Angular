@@ -1,6 +1,6 @@
-# Daily learning
+Daily learning
 
-## Developing your Blog with Java and Angular Technologies
+# Developing your Blog with Java and Angular Technologies
 
 Project developed at Bootcamp Capgemini Fullstack Java and Angular with expert guidance [Wheslley Rimar Bezerra](https://github.com/wheslleyrimar "Wheslley Rimar Bezerra").</br>
 Learning to build an API with Json-Server that consumes data in a message feed developed in Angular.
